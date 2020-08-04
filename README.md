@@ -1,2 +1,2 @@
 # Arrays
- C# Tutioral by Bob Tabor on Arrays
+ C# tutorial about arrays
